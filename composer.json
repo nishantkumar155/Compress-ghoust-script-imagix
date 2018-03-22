@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ps/image-optimizer": "^1.1.2",
+        "spatie/laravel-image-optimizer": "^1.1"
+    }
+}
